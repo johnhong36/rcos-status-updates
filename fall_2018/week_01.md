@@ -2,20 +2,19 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> I attempted to finish up my environment but I ran into problems with postgres.
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-> Examples: New Bugs to be fixed, Design choices
+> I will finish my environment and learn how to use go.
 
 ## Anything Blocking?
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> Not completely comfortable with the terminal. 
 
 ## Notes
 
